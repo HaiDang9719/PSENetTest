@@ -1,0 +1,4 @@
+*.DS_Store
+*.pyc
+*.ckpt
+resnet_v1_50
